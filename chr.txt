@@ -1,0 +1,5 @@
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html
+https://www.tutorialspoint.com/amazon_web_services/amazon_web_services_cloud_computing.htm
+
+https://github.com/d3/d3/wiki/Tutorials
+https://bost.ocks.org/mike/bar/
